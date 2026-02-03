@@ -1,0 +1,14 @@
+{
+  "name": "repost-detector-js",
+  "version": "1.0.0",
+  "description": "Simple JavaScript repost detector using snoowrap",
+  "main": "repost-detector.js",
+  "scripts": {
+    "start": "node repost-detector.js"
+  },
+  "dependencies": {
+    "snoowrap": "^1.23.0"
+  },
+  "license": "MIT",
+  "author": "u/ObjectiveChoice3899  | GitHub: github.com/HashimMatloob"
+}
